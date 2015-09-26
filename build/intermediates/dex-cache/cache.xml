@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Parents\Documents\GitHub\clars_branch\FtcRobotController\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9112d15701e2c29945597c234eb28110f3e77ddc">
+        <dex dex="C:\Users\Parents\Documents\GitHub\clars_branch\FtcRobotController\build\intermediates\pre-dexed\debug\classes-35a96c15b8e3c2ea8affa7bedd02f72ebbf37e9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parents\Documents\GitHub\clars_branch\FtcRobotController\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5f9e5d9a3cadf7329bbbaea6def0fb86d3773a2">
+        <dex dex="C:\Users\Parents\Documents\GitHub\clars_branch\FtcRobotController\build\intermediates\pre-dexed\debug\classes-3b0922addd31f580aeca01523d7dcf729a698a34.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parents\Documents\GitHub\clars_branch\FtcRobotController\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="51740db7999259bcef8a679f349034c760ceb172">
+        <dex dex="C:\Users\Parents\Documents\GitHub\clars_branch\FtcRobotController\build\intermediates\pre-dexed\debug\classes-c0215d63f45592645960a8aa64bdfb9062143f1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parents\Documents\GitHub\clars_branch\FtcRobotController\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="be03c1ee2c4c731033845ec1846923138dc9e0fa">
+        <dex dex="C:\Users\Parents\Documents\GitHub\clars_branch\FtcRobotController\build\intermediates\pre-dexed\debug\classes-54d890ecca6d88c20dd5fff9ab50a861973dbde2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parents\Documents\GitHub\clars_branch\FtcRobotController\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="78166ead5f1793270fb95aff9f878f98331ac6e9">
+        <dex dex="C:\Users\Parents\Documents\GitHub\clars_branch\FtcRobotController\build\intermediates\pre-dexed\debug\classes-9160c424205aea16c3d6260e2887610da712a886.jar" />
+    </item>
+    <item
+        jar="C:\Users\Parents\Documents\GitHub\clars_branch\FtcRobotController\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="312452430a607b39b92221fbed687e458ed9c8c7">
+        <dex dex="C:\Users\Parents\Documents\GitHub\clars_branch\FtcRobotController\build\intermediates\pre-dexed\debug\classes-9581ee6e6ff14274c409786107004c54a25c7d0b.jar" />
+    </item>
+
+</items>
